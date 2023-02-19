@@ -117,4 +117,47 @@ span{
     padding-left: 12%;
     padding-right: 5%;
 }
+
+.content2{
+  
+    text-align: justify;
+    padding-top: 8%;
+    /* padding-left: 0%;
+    padding-right: 0%; */
+}
+
+.content3{
+  
+    text-align: justify;
+    padding-top: 8%;
+    padding-right: 12%;
+    /* padding-left: 12%;
+    padding-right: 5%; */
+}
+.redline1{
+    background-color: #eb1f7b;
+    width: 22px;
+    height: 7px;
+    margin-top: -27px;
+    margin-left: 48px;
+}
+
+.redline2{
+    background-color: #eb1f7b;
+    width: 22px;
+    height: 7px;
+    margin-top: -27px;
+    margin-left: 118px;
+}
+.redline3{
+    background-color: #eb1f7b;
+    width: 22px;
+    height: 7px;
+    margin-top: -27px;
+    margin-left: 118px;
+}
+h5{
+    color: #eb1f7b;
+}
 /* text-align */
+
