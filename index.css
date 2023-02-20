@@ -15,8 +15,8 @@ height: 160px;
 width: 270px;
 margin: 1%;
 
-
 }
+ 
 .leftlogo b{
     color: white;
     font-weight: 400;
@@ -112,7 +112,8 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
     margin-left: 11%;
 }
 .mid2text p{
-    font-size: 150px;
+    /* font-size: 150px----------------; */
+    font-size: 10vw;
     font-weight: 900;
     color: #ffffff9f;
     margin-left: 11%;
@@ -125,7 +126,8 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
     margin-top: -13%;
     margin-left: 11%;
     font-weight: 600;
-    font-size: 555%;
+    /* font-size: 555%;---------------- */
+    font-size: 5vw;
     color: #ffffff;
     width: 700px;    
     line-height: 95%;
