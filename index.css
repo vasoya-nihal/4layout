@@ -72,10 +72,10 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
     position: static;
 }
 
-#img_left1{
+/* #img_left1{
     position: relative;
-    background-color: #137cb097;
-}
+    background-color: #137cb097;--------------------------------------------------------------------------------------------------
+} */
 #img_left2{
     position: relative;
 
